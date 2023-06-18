@@ -15,3 +15,8 @@ Make the changes to brute.cpp, gen.cpp and code.cpp accordingly.
 ```
 ./run.sh
 ```
+
+### You can use color_run for getting colours in terminal
+```
+./color_run.sh
+```
